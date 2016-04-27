@@ -1,0 +1,2 @@
+/Users/jasonmccoy/Library/Developer/Xcode/DerivedData/shoeStackView-fdiztzxdjjsojwbhjqugqmeveogt/Build/Products/Debug-iphonesimulator/shoeStackView.app
+
